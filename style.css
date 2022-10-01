@@ -847,25 +847,25 @@ body{
 /*Home*/
 
 .home {
-  background-image: url(starter-code/assets/home/background-home-mobile.jpg);
+  background-image: url(assets/home/background-home-mobile.jpg);
 }
 
 @media screen and (min-width: 35em) {
   .home{
     background-position: center center;
-    background-image: url(starter-code/assets/home/background-home-tablet.jpg);
+    background-image: url(assets/home/background-home-tablet.jpg);
   }
 }
 
 @media screen and (min-width: 65em) {
   .home{
-    background-image: url(starter-code/assets/home/background-home-desktop.jpg);
+    background-image: url(assets/home/background-home-desktop.jpg);
   }
 }
 
 
 .destination {
-  background-image: url(starter-code/assets/destination/background-destination-mobile.jpg);
+  background-image: url(assets/destination/background-destination-mobile.jpg);
   background-size: cover;
   background-position: center center;
 }
@@ -873,49 +873,49 @@ body{
 @media screen and (min-width: 35em) {
   .destination{
     background-position: center center;
-    background-image: url(starter-code/assets/destination/background-destination-tablet.jpg);
+    background-image: url(assets/destination/background-destination-tablet.jpg);
   }
 }
 
 @media screen and (min-width: 65em) {
   .destination{
-    background-image: url(starter-code/assets/destination/background-destination-desktop.jpg);
+    background-image: url(assets/destination/background-destination-desktop.jpg);
   }
 }
 
 
 .crew {
-  background-image: url(starter-code/assets/destination/background-destination-mobile.jpg);
+  background-image: url(assets/destination/background-destination-mobile.jpg);
   background-size: cover;
 }
 
 @media screen and (min-width: 35em) {
   .crew{
     background-position: center center;
-    background-image: url(starter-code/assets/crew/background-crew-tablet.jpg);
+    background-image: url(assets/crew/background-crew-tablet.jpg);
   }
 }
 
 @media screen and (min-width: 65em) {
   .crew{
-    background-image: url(starter-code/assets/crew/background-crew-desktop.jpg);
+    background-image: url(assets/crew/background-crew-desktop.jpg);
   }
 }
 
 
 .technology {
-  background-image: url(starter-code/assets/technology/background-technology-mobile.jpg);
+  background-image: url(assets/technology/background-technology-mobile.jpg);
 }
 
 @media screen and (min-width: 35em) {
   .technology{
     background-position: center center;
-    background-image: url(starter-code/assets/technology/background-technology-tablet.jpg);
+    background-image: url(assets/technology/background-technology-tablet.jpg);
   }
 }
 
 @media screen and (min-width: 65em) {
   .technology{
-    background-image: url(starter-code/assets/technology/background-technology-desktop.jpg);
+    background-image: url(assets/technology/background-technology-desktop.jpg);
   }
 }
