@@ -151,8 +151,8 @@ select {
     border: 0;
     background-color: hsl( var(--clr-white) / .25);
     border-radius: 50%;
-    width: 0.75em;
-    height: 0.75em;
+    width: 0.9375em;
+    height: 0.9375em;
   }
   
   .dot-indicators > *:hover,
